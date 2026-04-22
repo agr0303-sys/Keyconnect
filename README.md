@@ -32,6 +32,21 @@ KeyConnect follows a modular architecture:
 Designed for **scalability, efficient querying, and smooth user interaction**
 
 ---
+## 🏗️ System Design & Diagrams  
+
+### 🔹 Use Case Diagram  
+![Use Case](./images/usecase.png)
+
+### 🔹 Sequence Diagram  
+![Sequence](./images/sequence.png)
+
+### 🔹 Activity Diagram  
+![Activity](./images/activity.png)
+
+### 🔹 Class Diagram  
+![Class](./images/class.png)
+
+---
 
 ## 🛠️ Tech Stack  
 - **Frontend:** React (for responsive and dynamic UI)  
